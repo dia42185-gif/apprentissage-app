@@ -1,0 +1,22 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+}
+
+.badge-priority-urgent { background-color: #dc3545; }
+.badge-priority-important { background-color: #fd7e14; }
+.badge-priority-normal { background-color: #198754; }
+.badge-priority-faible { background-color: #adb5bd; }
+
+.navbar-nav .nav-link {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+}
+.dashboard-chart {
+    position: relative;
+    height: 260px;
+}

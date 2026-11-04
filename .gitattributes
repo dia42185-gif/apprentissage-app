@@ -1,0 +1,3 @@
+public/css/*.min.css text eol=lf
+public/js/*.min.js text eol=lf
+public/js/chart.umd.js text eol=lf
